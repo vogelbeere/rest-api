@@ -1,0 +1,34 @@
+body {
+  background-color: #e8e8da;
+  font-family: 14px "Gill Sans", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #41b4d1;
+}
+
+a:visited {
+  color: #ccc;
+}
+
+header {
+  background-color: #0f85a2;
+}
+
+table {
+  background-color: #fff;
+}
+
+th, td {
+  padding: 1rem;
+  text-align: left;
+}
+
+tr {
+  border-top: 1px solid #d2d2d2;
+}
+
+tr:hover {
+  background: rgb(255,255,255);
+  background-image: linear-gradient(to top, #ffffff, #e8e8da);
+}
